@@ -45,8 +45,6 @@ Get Space ID, Access Token and explore code examples.
 
 Space ID - 5ulnjmlq4ntf
 
-Access Token - 63afFCVMuv_xvD8k8NaEgfNe2MXp0YyJ2R-60fVFARA
-
 #### Install SDK
 
 - npm install contentful
